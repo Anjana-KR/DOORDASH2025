@@ -3210,7 +3210,7 @@ footer {
     font-family: bold;
 }
 
-.login-center-are{
+.login-center-area{
      display: none;
 }
 
@@ -3869,4 +3869,5 @@ text-align: left;
      display: flex;
     flex-direction: column;
 } 
+
 }
