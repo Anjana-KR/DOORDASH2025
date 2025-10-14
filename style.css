@@ -2265,7 +2265,7 @@ main {
 }
 
 .get-grocery-section {
-    background: url(/assets/groceries.png) center center / cover;
+    background: url(assets/groceries.png) center center / cover;
     position: relative;
     height: 350px;
     box-sizing: border-box;
