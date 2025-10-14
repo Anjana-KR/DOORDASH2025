@@ -3214,6 +3214,9 @@ footer {
      display: none;
 }
 
+.signIn-container{
+    display: none;
+}
 
 @media screen and (min-width:768px) {
     .header-side {
